@@ -1,1 +1,1 @@
-Lab 2 - Digital_Image_Fundamentals
+Lab 2 - Digital Image Fundamentals
